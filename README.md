@@ -1,4 +1,4 @@
-# Data Analytics Project
+# Customer Shopping Behavior Analysis
 ## Overview
 
 This project demonstrates a complete data analytics workflow using Python, SQL, and Power BI. The objective of the project is to analyze raw data, extract meaningful insights, and present the results through interactive dashboards and reports.
