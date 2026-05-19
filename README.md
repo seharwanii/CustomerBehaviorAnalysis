@@ -5,12 +5,12 @@ This project demonstrates a complete data analytics workflow using Python, SQL, 
 
 The project includes:
 
--Data loading and preprocessing
--Exploratory Data Analysis (EDA)
--Data cleaning and transformation
--SQL analysis using PostgreSQL/MySQL/SQL Server
--Power BI dashboard creation
--Report and presentation development using Gamma
+- Data loading and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data cleaning and transformation
+- SQL analysis using PostgreSQL/MySQL/SQL Server
+- Power BI dashboard creation
+- Report and presentation development using Gamma
 
 ## Dataset
 
@@ -18,45 +18,45 @@ The dataset contains structured business-related data used for analysis and visu
 
 ## Tools & Technologies
 
--Python – Pandas, NumPy, Matplotlib, Seaborn
--SQL – PostgreSQL, MySQL, SQL Server
--Power BI – Dashboard and visualization
--Jupyter Notebook / VS Code – Development environment
--Gamma AI – Presentation creation
+- Python – Pandas, NumPy, Matplotlib, Seaborn
+- SQL – PostgreSQL, MySQL, SQL Server
+- Power BI – Dashboard and visualization
+- Jupyter Notebook / VS Code – Development environment
+- Gamma AI – Presentation creation
 
 ## Project Workflow
 
 ### 1. Data Loading
--Imported dataset using Pandas
--Checked dataset structure and datatypes
+- Imported dataset using Pandas
+- Checked dataset structure and datatypes
 
 ### 2. Exploratory Data Analysis (EDA)
--Analyzed trends, patterns, and distributions
--Created charts and visualizations for better insights
+- Analyzed trends, patterns, and distributions
+- Created charts and visualizations for better insights
 
 ### 3. Data Cleaning
--Handled missing values
--Removed duplicates
--Corrected inconsistent data
--Formatted columns and datatypes
+- Handled missing values
+- Removed duplicates
+- Corrected inconsistent data
+- Formatted columns and datatypes
 
 ### 4. SQL Analysis
 
 Performed SQL queries for:
 
--Data filtering and sorting
--Aggregations and grouping
--Joins and subqueries
--KPI extraction
+- Data filtering and sorting
+- Aggregations and grouping
+- Joins and subqueries
+- KPI extraction
 
 ### 5. Power BI Dashboard
 
 Built an interactive dashboard with:
 
--KPI cards
--Charts and graphs
--Filters and slicers
--Trend analysis
+- KPI cards
+- Charts and graphs
+- Filters and slicers
+- Trend analysis
 
 ### Desktop View
 
@@ -95,12 +95,12 @@ Download the .pbix file and open it in Power BI Desktop to explore the interacti
 
 ## Skills Demonstrated
 
--Data Cleaning & Preprocessing
--Exploratory Data Analysis (EDA)
--SQL Querying
--Data Visualization
--Dashboard Development
--Business Reporting & Presentation
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL Querying
+- Data Visualization
+- Dashboard Development
+- Business Reporting & Presentation
 
 ## Conclusion
 
