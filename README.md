@@ -19,7 +19,7 @@ The dataset contains structured business-related data used for analysis and visu
 ## Tools & Technologies
 
 - Python – Pandas, NumPy, Matplotlib, Seaborn
-- SQL – PostgreSQL, MySQL, SQL Server
+- SQL – MySQL, SQL Server
 - Power BI – Dashboard and visualization
 - Jupyter Notebook / VS Code – Development environment
 - Gamma AI – Presentation creation
