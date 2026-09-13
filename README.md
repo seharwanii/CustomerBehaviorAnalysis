@@ -8,7 +8,7 @@ The project includes:
 - Data loading and preprocessing
 - Exploratory Data Analysis (EDA)
 - Data cleaning and transformation
-- SQL analysis using MySQL
+- SQL analysis using MySQL/SQL Server
 - Power BI dashboard creation
 - Report and presentation development using Gamma
 
